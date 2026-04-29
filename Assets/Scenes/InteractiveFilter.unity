@@ -1135,6 +1135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GlassesGroup
       objectReference: {fileID: 0}
+    - target: {fileID: 8082674943995759141, guid: 288c38867cb557d458fbfd7172945e2c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
